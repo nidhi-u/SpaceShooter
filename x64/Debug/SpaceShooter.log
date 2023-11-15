@@ -1,0 +1,36 @@
+﻿  Game.cpp
+D:\Games\SpaceShooter\Game.cpp(76,38): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Games\SpaceShooter\Game.cpp(92,48): warning C4244: 'argument': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Games\SpaceShooter\Game.cpp(258,32): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Games\SpaceShooter\Game.cpp(261,33): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Player.cpp
+  Generating Code...
+  SpaceShooter.vcxproj -> D:\Games\SpaceShooter\x64\Debug\SpaceShooter.exe
